@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hanikorm&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=Hanikorm&show_icons=true&include_all_commits=true&theme=blue_navy)
 <!--
 **Hanikorm/Hanikorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
