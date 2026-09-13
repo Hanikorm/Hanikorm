@@ -1,5 +1,5 @@
-############## Hi, I'm a beginner programmer.
---------------------------------------------------------
+Hi, I'm a beginner programmer.
+------------------------------
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hanikorm&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=Hanikorm&show_icons=true&include_all_commits=true&theme=blue_navy)
 <!--
